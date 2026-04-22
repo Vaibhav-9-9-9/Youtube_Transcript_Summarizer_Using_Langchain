@@ -2,13 +2,6 @@
 
 <p align="center">
 Convert <b>YouTube videos into concise summaries</b> using <b>LangChain + LLMs</b>
-</p>
-
-<p align="center">
-<a href="https://youtubetranscriptsummarizerusinglangchain-bpvsjzjhyapkvyehhfr4.streamlit.app/" target="_blank">
-<b>🔗 Live App</b>
-</a>
-</p>
 
 <hr>
 
@@ -134,9 +127,6 @@ Open App
 <p>Feel free to fork the repo and submit pull requests.</p>
 
 <hr>
-
-<h2>📜 License</h2>
-<p>MIT License</p>
 
 <hr>
 
